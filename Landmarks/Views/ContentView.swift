@@ -22,7 +22,7 @@ struct ContentView: View {
             
                 HStack {
                     Text("Joshua Tree National Park.")
-                    // o Spacer faz com que a view use todo o espaço de seus parentes, ao invés de ter seu tamanho definido automáticamente, levando em consideração o contexto, como é o padrão das stacks.
+                    
                     Spacer()
                     
                     Text("California")
